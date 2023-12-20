@@ -1,12 +1,9 @@
-# CYiB-2.1
-<<<<<<< HEAD
-The source code of the video game Cover Yourself in Blood, my first video game. Released on February 7, 2021.
-=======
-## The source code of the video game *Cover Yourself in Blood* made on the Unity 3D engine, my first publicly released video game. 
+## The source code of the video game *Cover Yourself in Blood* made on the Unity 3D engine, my first Steam released video game
 
-**If you want to play it it's at: https://jordancup.itch.io/cover-yourself-in-blood**
+**If you want to play it it's at: <https://store.steampowered.com/app/2725460/Cover_Yourself_in_Blood/>**
 
-This is the 2.1 Version, aka the itch.io version and is not the same as the 3.0.1 version on Steam.
+This is the 3.0.1 Version, aka the Steam version and is not the same as the 2.1 version on itch.io.
 
 This code will probably not be used but I wanted to make it open anyway for archiving purposes.
->>>>>>> c1bbafe (Update README.md)
+
+If it used though it should be noted this will only work inside the Unity Engine, the game was made on version 2021.3.10f1.
